@@ -6,6 +6,13 @@
 
 An open-source collaborative storytelling project where anyone can contribute their stories and ideas.
 
+## Featured Story
+
+### [The Mandate of Orange](docs/stories/mandate-of-orange/README.md)
+A fascinating tale of time travel and cultural fusion, where Donald Trump finds himself as the Emperor of Qing Dynasty China.
+- [English Version](docs/stories/mandate-of-orange/README.md)
+- [中文版](docs/stories/mandate-of-orange/README.zh.md)
+
 ## About This Project
 
 TrumpWinBook is a community-driven platform where writers, storytellers, and enthusiasts can collaborate to create and share stories. Whether you're a seasoned writer or just starting out, your contributions are welcome!
