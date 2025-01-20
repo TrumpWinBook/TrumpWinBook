@@ -1,5 +1,7 @@
 # TrumpWinBook
 
+![Trump The Art of The Deal](https://raw.githubusercontent.com/TrumpWinBook/TrumpWinBook/main/assets/images/trump-deal.jpg)
+
 An open-source collaborative storytelling project where anyone can contribute their stories and ideas.
 
 ## About This Project
