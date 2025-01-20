@@ -1,10 +1,25 @@
 {
-  "title": "Trump Win Book",
-  "description": "Documentation for Trump Win",
-  "author": "Your Name",
+  "title": "TrumpWinBook",
+  "description": "A comprehensive documentation project",
+  "author": "TrumpWinBook Team",
   "language": "en",
   "structure": {
     "readme": "README.md",
     "summary": "SUMMARY.md"
+  },
+  "plugins": [
+    "search",
+    "sidebar-ad",
+    "github",
+    "edit-link"
+  ],
+  "pluginsConfig": {
+    "github": {
+      "url": "https://github.com/TrumpWinBook/TrumpWinBook"
+    },
+    "edit-link": {
+      "base": "https://github.com/TrumpWinBook/TrumpWinBook/edit/main",
+      "label": "Edit This Page"
+    }
   }
 }

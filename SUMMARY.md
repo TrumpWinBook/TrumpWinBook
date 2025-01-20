@@ -1,9 +1,15 @@
 # Table of Contents
 
 * [Introduction](README.md)
-* [Chapter 1: Getting Started](chapters/chapter1.md)
-  * [Installation](chapters/chapter1/installation.md)
-  * [Configuration](chapters/chapter1/configuration.md)
-* [Chapter 2: Basic Concepts](chapters/chapter2.md)
-  * [Core Features](chapters/chapter2/features.md)
-  * [Best Practices](chapters/chapter2/best-practices.md)
+
+## Part I: Getting Started
+* [Quick Start](docs/getting-started/quick-start.md)
+* [Installation](docs/getting-started/installation.md)
+
+## Part II: Basic Concepts
+* [Structure](docs/basic-concepts/structure.md)
+* [Configuration](docs/basic-concepts/configuration.md)
+
+## Part III: Advanced Topics
+* [Customization](docs/advanced/customization.md)
+* [Plugins](docs/advanced/plugins.md)

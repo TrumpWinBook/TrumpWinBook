@@ -1,6 +1,18 @@
-# Trump Win Book
+# TrumpWinBook
 
-Welcome to the Trump Win documentation! This guide will help you understand and utilize our platform effectively.
+A comprehensive documentation project built with GitBook-style structure.
+
+## Introduction
+
+This project aims to provide a well-structured documentation system similar to GitBook, allowing for easy navigation and content management.
+
+## Getting Started
+
+1. Clone this repository
+2. Install dependencies
+3. Start the development server
+
+## Project Structure
 
 ## Overview
 
