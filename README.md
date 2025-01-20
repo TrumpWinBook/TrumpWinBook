@@ -1,7 +1,7 @@
 # TrumpWinBook
 
 <div align="center">
-  <img src="https://m.media-amazon.com/images/I/51C8jF6QPXL._SY445_SX342_.jpg" alt="Trump The Art of The Deal" width="800"/>
+  <img src="assets/images/trump-deal.jpg" alt="Trump The Art of The Deal" width="800"/>
 </div>
 
 An open-source collaborative storytelling project where anyone can contribute their stories and ideas.
